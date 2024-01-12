@@ -1,0 +1,1 @@
+model2=C:/Users/User_02/Desktop/file_train_A18/CAM2/C2_A18_RS656_2023-12-07.pt

@@ -1,0 +1,18 @@
+RESULT FINAL
+                 all       0.84
+                   c      0.995
+                 sat      0.995
+               divat      0.492
+                  me      0.493
+           lech_chan      0.994
+            keo_tran      0.443
+             chan_de      0.995
+             chan_tu      0.995
+           di_thuong      0.817
+              tai_ok      0.995
+              tu_dai      0.995
+             me_giua      0.628
+             me_cuoi      0.623
+                   1      0.995
+                   2      0.995
+                   3      0.995

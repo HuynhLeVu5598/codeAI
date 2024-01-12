@@ -1,0 +1,1 @@
+model4=C:/Users/User_02/Desktop/file_train_A18/CAM4/C4_RS656_A18_2024-01-03.pt
